@@ -1,3 +1,4 @@
+from pyspark.sql.types import StructType, StructField, StringType, IntegerType, DoubleType, ArrayType
 
 class Schema_manager:
 
